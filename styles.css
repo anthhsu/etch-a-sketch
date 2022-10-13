@@ -1,0 +1,29 @@
+.flex-container-row {
+    display: flex;
+}
+
+.flex-container-col {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-container div {
+    border-style: solid;
+    background: beige;
+    flex: 1;
+}
+
+.square {
+    width: 200px;
+    height: 200px;
+}
+
+.square:hover {
+    background: blue;
+}
+
+#container {
+    width: 800px;
+    height: 800px;
+    display: flex;
+}
