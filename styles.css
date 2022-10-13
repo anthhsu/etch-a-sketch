@@ -6,12 +6,7 @@
 .flex-container-row div {
     border-style: solid;
     border-width: 1px;
-    background: beige;
     flex: 1;
-}
-
-.square:hover {
-    background: blue;
 }
 
 #container {
